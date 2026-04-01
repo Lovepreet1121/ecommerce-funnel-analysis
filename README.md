@@ -59,7 +59,7 @@ This project analyzes **200K+ user interactions** from an e-commerce platform to
 
 ## 📊 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 
